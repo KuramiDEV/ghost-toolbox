@@ -12,5 +12,5 @@ Fix Ghost Toolbox don't open(In ghost spectre OS) or run in any operacional syst
 4 - Run "toolbox.updater.x64.exe"
 
 ### Screenshot 07/17/25
-![Screenshot](https://imgur.com/a/sAO9ByE)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sAO9ByE" data-context="false" ><a href="//imgur.com/a/sAO9ByE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 

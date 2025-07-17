@@ -1,5 +1,6 @@
 ## Ghost Toolbox
 Fix Ghost Toolbox don't open(In ghost spectre OS) or run in any operacional system!
+I'm not the developer of Ghost Specter, I'm just providing the download!
 
 # How to install
 
